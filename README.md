@@ -1,2 +1,3 @@
-# utilities
-Scripts for automating repetitive tasks.
+# Utilities
+Shell scripts for automating repetitive tasks.
+
